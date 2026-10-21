@@ -94,13 +94,116 @@ Choose any project folder and open the `index.html` file in your browser.
 ├── 03-CodeForces-Clone
 ├── 04-Job-Application
 ├── 05-Pokemon-Card-Game
-├── ...
+├── 06-Shapes-Games
+├── 07-Tribute-Website
+├── 08-Amazon-Clone
+├── 09-Digital-Clock
+├── 10-E-Commerce_Shopping_App
+├── 11-Square-Game
+├── 12-Pokemon-Card-Collection
+├── 13-Portfolio
+├── 14-BMI-Calculator
+├── 15-Calculator
+├── 16-Currency-Converter
+├── 17-Portfolio-ll
+├── 18-Cards-Project-Using-ComponentsAndProps
+├── 19-Gallery-Project
+├── 20-Insta-App
+├── 21-Notes-Api_MongoDB
+├── 22-Notes-App
+├── 23-Spotify-Project
+├── 24-Student-Management-System
+├── 25-UI-Project-Using-Tailwind
 │
-├── CONTRIBUTING.md
+├── scripts/            # Automation scripts for GitHub issues
 ├── CODE_OF_CONDUCT.md
 ├── LICENSE
+├── SECURITY.md
+├── CONTRIBUTORS.md
 └── README.md
 ```
+
+---
+
+## 📊 Project Table
+
+| No. | Project | Language | Tech Stack | Status |
+|-----|---------|----------|------------|--------|
+| 01 | Rock Paper Scissors | HTML, CSS, JS | Vanilla | ✅ Complete |
+| 02 | Tic Tac Toe | HTML, CSS, JS | Vanilla | ✅ Complete |
+| 03 | CodeForces Clone | HTML, CSS, JS | Vanilla | ✅ Complete |
+| 04 | Job Application | HTML, CSS | Vanilla | ✅ Complete |
+| 05 | Pokemon Card Game | HTML, CSS, JS | Vanilla | ✅ Complete |
+| 06 | Shapes Game | HTML, CSS, JS | Vanilla | ✅ Complete |
+| 07 | Tribute Website | HTML, CSS | Vanilla | ✅ Complete |
+| 08 | Amazon Clone | HTML, CSS | Vanilla | ✅ Complete |
+| 09 | Digital Clock | HTML, CSS, JS | Vanilla | ✅ Complete |
+| 10 | E-Commerce Shopping App | HTML, CSS, JS, Node.js, MongoDB | Full Stack | ✅ Complete |
+| 11 | Square Game | HTML, CSS, JS | Vanilla | ✅ Complete |
+| 12 | Pokemon Card Collection | HTML, CSS, JS | Vanilla | ✅ Complete |
+| 13 | Portfolio | HTML, CSS | Vanilla | ✅ Complete |
+| 14 | BMI Calculator | HTML, CSS, JS | Vanilla | ✅ Complete |
+| 15 | Calculator | HTML, CSS, JS | Vanilla | ✅ Complete |
+| 16 | Currency Converter | HTML, CSS, JS | Vanilla | ✅ Complete |
+| 17 | Portfolio ll | HTML, CSS, JS | Vanilla | ✅ Complete |
+| 18 | Cards Project | HTML, CSS, JS, React | React + Vite | ✅ Complete |
+| 19 | Gallery Project | HTML, CSS, JS, React | React + Vite | ✅ Complete |
+| 20 | Insta App | HTML, CSS, JS, Node.js | Full Stack | ✅ Complete |
+| 21 | Notes API (MongoDB) | Node.js, Express, MongoDB | Full Stack | ✅ Complete |
+| 22 | Notes App | HTML, CSS, JS, React | React + Vite | ✅ Complete |
+| 23 | Spotify Project | HTML, CSS, JS, Node.js | Full Stack | ✅ Complete |
+| 24 | Student Management System | HTML, CSS, JS, Node.js, MongoDB | Full Stack | ✅ Complete |
+| 25 | UI Project Using Tailwind | HTML, CSS, JS, React | React + Vite + Tailwind | ✅ Complete |
+
+---
+
+## 🗂️ Repository Structure
+
+```text
+51_Web_Projects/
+│
+├── .github
+│   ├── ISSUE_TEMPLATE/
+│   ├── workflows/
+│   └── pull_request_template.md
+│
+├── 01-Rock-Paper-Scissors
+├── 02-Tic-Tac-Toe
+├── 03-CodeForces-Clone
+├── 04-Job-Application
+├── 05-Pokemon-Card-Game
+├── 06-Shapes-Games
+├── 07-Tribute-Website
+├── 08-Amazon-Clone
+├── 09-Digital-Clock
+├── 10-E-Commerce_Shopping_App
+├── 11-Square-Game
+├── 12-Pokemon-Card-Collection
+├── 13-Portfolio
+├── 14-BMI-Calculator
+├── 15-Calculator
+├── 16-Currency-Converter
+├── 17-Portfolio-ll
+├── 18-Cards-Project-Using-ComponentsAndProps
+├── 19-Gallery-Project
+├── 20-Insta-App
+├── 21-Notes-Api_MongoDB
+├── 22-Notes-App
+├── 23-Spotify-Project
+├── 24-Student-Management-System
+├── 25-UI-Project-Using-Tailwind
+│
+├── scripts/            # Automation scripts for GitHub issues
+├── CODE_OF_CONDUCT.md
+├── LICENSE
+├── SECURITY.md
+├── CONTRIBUTORS.md
+└── README.md
+```
+
+---
+
+## 🤝 Contributing
 
 ---
 
@@ -111,36 +214,16 @@ Contributions are welcome and appreciated.
 ### How To Contribute
 
 1. Fork the repository
-
 2. Clone your fork
-
-```bash
-git clone https://github.com/your-github-username/51_Web_Projects.git
-```
-
-3. Create a new branch
-
-```bash
-git checkout -b feature-name
-```
-
+3. Create a new branch (`git checkout -b feature/your-feature-name`)
 4. Make your changes
-
-5. Commit your changes
-
-```bash
-git commit -m "Add meaningful commit message"
-```
-
-6. Push your branch
-
-```bash
-git push origin feature-name
-```
-
+5. Commit your changes (`git commit -m "Fix: ..."` or `git commit -m "Add: ..."`)
+6. Push your branch (`git push origin feature/your-feature-name`)
 7. Open a Pull Request
 
-Please read **CONTRIBUTING.md** before contributing.
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) before contributing.
+
+> 📌 **PR format:** Add a clear title (`Fix:` / `Add:` / `Docs:` / `UI:`), a short description, and **screenshots** for UI/UX changes.
 
 ---
 
@@ -170,7 +253,111 @@ This repository is suitable for:
 
 ## 📜 Code of Conduct
 
-Please follow the guidelines mentioned in **CODE_OF_CONDUCT.md**.
+Please follow the guidelines mentioned in [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
+
+---
+
+## 👥 Contributors
+
+Thanks to all these amazing people who have contributed to this project:
+
+<div align="center">
+
+<!-- readme: contributors -start -->
+<table>
+	<tbody>
+		<tr>
+            <td align="center">
+                <a href="https://github.com/dhairyagothi">
+                    <img src="https://avatars.githubusercontent.com/u/142989448?v=4" width="96;" alt="dhairyagothi"/>
+                    <br />
+                    <sub><b>dhairyagothi</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/SAYALI8106">
+                    <img src="https://avatars.githubusercontent.com/u/136413516?v=4" width="96;" alt="SAYALI8106"/>
+                    <br />
+                    <sub><b>SAYALI8106</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/divyaa-pal">
+                    <img src="https://avatars.githubusercontent.com/u/241628319?v=4" width="96;" alt="divyaa-pal"/>
+                    <br />
+                    <sub><b>divyaa-pal</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Dhruv-kundu">
+                    <img src="https://avatars.githubusercontent.com/u/235337505?v=4" width="96;" alt="Dhruv-kundu"/>
+                    <br />
+                    <sub><b>Dhruv-kundu</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/nazneen-p1">
+                    <img src="https://avatars.githubusercontent.com/u/186559888?v=4" width="96;" alt="nazneen-p1"/>
+                    <br />
+                    <sub><b>nazneen-p1</b></sub>
+                </a>
+            </td>
+		</tr>
+		<tr>
+            <td align="center">
+                <a href="https://github.com/gayatridot">
+                    <img src="https://avatars.githubusercontent.com/u/221440901?v=4" width="96;" alt="gayatridot"/>
+                    <br />
+                    <sub><b>gayatridot</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/codewithakshyaaa">
+                    <img src="https://avatars.githubusercontent.com/u/251286515?v=4" width="96;" alt="codewithakshyaaa"/>
+                    <br />
+                    <sub><b>codewithakshyaaa</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/vasudhaagrawal2024-byte">
+                    <img src="https://avatars.githubusercontent.com/u/249964032?v=4" width="96;" alt="vasudhaagrawal2024-byte"/>
+                    <br />
+                    <sub><b>vasudhaagrawal2024-byte</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Shrutii-Rai">
+                    <img src="https://avatars.githubusercontent.com/u/214139386?v=4" width="96;" alt="Shrutii-Rai"/>
+                    <br />
+                    <sub><b>Shrutii-Rai</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/SARTHAKJINDAL1">
+                    <img src="https://avatars.githubusercontent.com/u/245673893?v=4" width="96;" alt="SARTHAKJINDAL1"/>
+                    <br />
+                    <sub><b>SARTHAKJINDAL1</b></sub>
+                </a>
+            </td>
+		</tr>
+	</tbody>
+</table>
+
+<!-- readme: contributors -end -->
+
+</div>
+
+<div align="left">
+### 👥 Active Contributors
+Add your name below! 🎉
+
+To add yourself, fork this repo, add your GitHub profile link in the Contributors section above (or in a `CONTRIBUTORS.md` file), and open a PR. We'll gladly accept your contribution! 🎉
+
+- [Your Name](https://github.com/your-username)
+- [Jai Karan](https://github.com/jaikaran109)
+
+> 💡 Tip: Star this repo ⭐ and contribute to get your name here!
+</div>
 
 ---
 
