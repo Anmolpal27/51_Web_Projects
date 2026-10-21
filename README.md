@@ -308,13 +308,22 @@ Please follow the guidelines mentioned in [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.m
 
 ## 👥 Contributors
 
-Thanks to all these amazing people who have contributed to this project:
+Thanks to all these amazing people who have contributed to this project! 🎉
 
 <div align="center">
 
 <!-- readme: contributors -start -->
 <table>
 	<tbody>
+		<tr>
+            <td align="center">
+                <a href="https://github.com/jaikaran109">
+                    <img src="https://avatars.githubusercontent.com/u/109308864?v=4" width="96;" alt="jaikaran109"/>
+                    <br />
+                    <sub><b>Jai Karan</b></sub>
+                </a>
+            </td>
+		</tr>
 		<tr>
             <td align="center">
                 <a href="https://github.com/dhairyagothi">
@@ -395,6 +404,9 @@ Thanks to all these amazing people who have contributed to this project:
 <!-- readme: contributors -end -->
 
 </div>
+
+> ⚠️ **Note:** These contributors were provided as reference for PR template format.
+> To add your actual contributors, create a PR with their GitHub profile links.
 
 <div align="left">
 ### 👥 Active Contributors

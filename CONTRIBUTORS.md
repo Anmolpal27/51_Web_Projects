@@ -1,10 +1,55 @@
 # Contributors
 
-Thanks to all these amazing people who have contributed to this project:
+Thanks to all the amazing people who have contributed to this project! 🎉
+
+---
+
+## 👥 Current Contributors
+
+> ✨ This section is automatically populated with contributor avatars.
+> Add your name below or create a PR to be listed here!
 
 <div align="center">
 
 <!-- readme: contributors -start -->
+<table>
+	<tbody>
+		<tr>
+            <td align="center">
+                <a href="https://github.com/jaikaran109">
+                    <img src="https://avatars.githubusercontent.com/u/109308864?v=4" width="96;" alt="jaikaran109"/>
+                    <br />
+                    <sub><b>Jai Karan</b></sub>
+                </a>
+            </td>
+		</tr>
+	</tbody>
+</table>
+
+<!-- readme: contributors -end -->
+
+</div>
+
+---
+
+## 📝 How to Add Yourself
+
+1. Fork this repository
+2. Add your GitHub profile link below in the table
+3. Add your avatar image URL
+4. Open a Pull Request
+
+> 💡 Tip: Star this repo ⭐ and contribute to get your name here!
+
+---
+
+## 👀 Reference Contributors (Not Actual Contributors)
+
+> ⚠️ The following GitHub usernames were provided as a **reference** for the PR template/format.
+> They are **not** actual contributors to this repository.
+
+<!-- Reference-only - do not include in actual contributor list -->
+<!--
 <table>
 	<tbody>
 		<tr>
@@ -83,7 +128,8 @@ Thanks to all these amazing people who have contributed to this project:
 		</tr>
 	</tbody>
 </table>
+-->
 
-<!-- readme: contributors -end -->
+---
 
-</div>
+**Made with ❤️ by your maintainer**
