@@ -205,10 +205,6 @@ Choose any project folder and open the `index.html` file in your browser.
 
 ## 🤝 Contributing
 
----
-
-## 🤝 Contributing
-
 Contributions are welcome and appreciated.
 
 ### How To Contribute
@@ -224,6 +220,43 @@ Contributions are welcome and appreciated.
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) before contributing.
 
 > 📌 **PR format:** Add a clear title (`Fix:` / `Add:` / `Docs:` / `UI:`), a short description, and **screenshots** for UI/UX changes.
+
+---
+
+## 🎯 Contribution Ideas
+
+- Improve UI/UX
+- Add Dark Mode
+- Improve Responsiveness
+- Fix Bugs
+- Improve Accessibility
+- Optimize Performance
+- Improve Documentation
+- Add New Features
+
+---
+
+## 🗂️ Scripts
+
+The `scripts/` directory contains automation scripts for managing GitHub issues:
+
+- `create-github-issues.sh` - Bulk create per-project issues
+- `create-github-issues-part2.sh` - Additional batch of issues
+- `close-batch1.sh` - Close unused/generic issues
+- `tmp-check.sh` - Temporary check script
+
+> ⚠️ These scripts are for repository maintainers and use GitHub CLI (`gh`).
+
+---
+
+## 🌱 Open Source Programs
+
+This repository is suitable for:
+
+- Hacktoberfest
+- GirlScript Summer of Code (GSSoC)
+- Social Summer of Code (SSoC)
+- Beginner Open Source Contributions
 
 ---
 
