@@ -1,14 +1,14 @@
 # 🚀 51 Web Projects  
 
-![GitHub stars](https://img.shields.io/github/stars/jaikaran109/51_Web_Projects?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/jaikaran109/51_Web_Projects?style=for-the-badge) 
 ![GitHub forks](https://img.shields.io/github/forks/jaikaran109/51_Web_Projects?style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/jaikaran109/51_Web_Projects?style=for-the-badge)
 ![GitHub license](https://img.shields.io/github/license/jaikaran109/51_Web_Projects?style=for-the-badge)
 
 A collection of **51 beginner-friendly web development projects** built using **HTML, CSS, and JavaScript**.
 
-Whether you're a beginner looking to improve your frontend development skills or an open-source contributor seeking projects to work on, this repository has something for everyone.
-
+Whether you're a beginner looking to improve your frontend development skills or an open-source contributor seeking projects to work on, this repository has something for everyone. 
+ 
 ⭐ **Star this repository if you find it useful!**
 
 ---
@@ -51,7 +51,23 @@ The goal of this repository is to:
 | 08 | Amazon Clone |
 | 09 | Digital Clock |
 | 10 | E-Commerce Shopping App |
-| ... | And 41 More Projects |
+| 11 | Square Game |
+| 12 | Pokemon Card Collection |
+| 13 | Portfolio |
+| 14 | BMI Calculator |
+| 15 | Calculator |
+| 16 | Currency Converter |
+| 17 | Portfolio (ll) |
+| 18 | Cards Project |
+| 19 | Gallery Project |
+| 20 | Insta App |
+| 21 | Notes API (MongoDB) |
+| 22 | Notes App |
+| 23 | Spotify Project |
+| 24 | Student Management System |
+| 25 | UI Project Using Tailwind |
+
+> 📖 See the [Project Table](#project-table) for more details.
 
 ---
 
@@ -410,7 +426,7 @@ If you find this repository useful:
 ### Jai Karan
 
 GitHub: https://github.com/jaikaran109
-
+ 
 Repository: https://github.com/jaikaran109/51_Web_Projects
 
 ---

@@ -9,10 +9,10 @@ This project recreates the layout and UI of the Codeforces homepage including:
 - Sidebar widgets
 - Top rated users
 - Top contributors
-- User profile card
+- User profile card 
 - Find user section
 
-Built mainly for improving:
+Built mainly for improving: 
 - Flexbox understanding
 - Layout structuring
 - Responsive thinking
