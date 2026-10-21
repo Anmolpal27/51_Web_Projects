@@ -6,12 +6,28 @@ let arr = ["https://i.pinimg.com/736x/9c/22/88/9c2288407d7048fbb73e4a736dc4306d.
 "https://i.pinimg.com/736x/2d/a3/e2/2da3e25b594272fadb7076899bcae1d6.jpg",
 "https://i.pinimg.com/736x/f7/c2/d0/f7c2d0c26e1011ba29e14a09a4c5b18f.jpg",
 "https://i.pinimg.com/736x/ef/2a/da/ef2ada4e54421188917785af29aedf50.jpg"];
-let s = "";
-for(let i = 1 ; i <= 55 ; i++){
-    let r = Math.floor(Math.random()*arr.length);
-    s += `<div class="cards"><img src=${arr[r]}></div>`;
+let fallbackImage =
+    "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png";
+
+for (let i = 1; i <= 55; i++) {
+    let r = Math.floor(Math.random() * arr.length);
+
+    s = `<div class="cards">
+            <img src="${arr[r]}" alt="Pokemon card ${i}">
+         </div>`;
+
+    let card = document.createElement("div");
+    card.innerHTML = s;
+
+    let img = card.querySelector("img");
+
+    img.onerror = function () {
+        img.onerror = null;
+        img.src = fallbackImage;
+    };
+
+    main.appendChild(card.firstElementChild);
 }
-main.innerHTML = s;
 
 
 
