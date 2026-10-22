@@ -9,6 +9,8 @@ A collection of **51 beginner-friendly web development projects** built using **
 
 Whether you're a beginner looking to improve your frontend development skills or an open-source contributor seeking projects to work on, this repository has something for everyone. 
  
+> 🎉 **Contribute your own project!** Have a web development project you'd like to share? You're welcome to add it here! Read our [Contributing Guide](CONTRIBUTING.md) to get started.
+
 ⭐ **Star this repository if you find it useful!**
 
 ---
@@ -314,99 +316,139 @@ Thanks to all these amazing people who have contributed to this project! 🎉
 
 <!-- readme: contributors -start -->
 <table>
-	<tbody>
-		<tr>
+<tbody>
+<tr>
             <td align="center">
                 <a href="https://github.com/jaikaran109">
-                    <img src="https://avatars.githubusercontent.com/u/109308864?v=4" width="96;" alt="jaikaran109"/>
+                    <img src="https://avatars.githubusercontent.com/u/182518350?v=4" width="96;" alt="jaikaran109"/>
                     <br />
-                    <sub><b>Jai Karan</b></sub>
-                </a>
-            </td>
-		</tr>
-		<tr>
-            <td align="center">
-                <a href="https://github.com/dhairyagothi">
-                    <img src="https://avatars.githubusercontent.com/u/142989448?v=4" width="96;" alt="dhairyagothi"/>
-                    <br />
-                    <sub><b>dhairyagothi</b></sub>
+                    <sub><b>jaikaran109</b></sub>
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/SAYALI8106">
-                    <img src="https://avatars.githubusercontent.com/u/136413516?v=4" width="96;" alt="SAYALI8106"/>
+                <a href="https://github.com/RujulaSharma">
+                    <img src="https://avatars.githubusercontent.com/u/245568988?v=4" width="96;" alt="RujulaSharma"/>
                     <br />
-                    <sub><b>SAYALI8106</b></sub>
+                    <sub><b>RujulaSharma</b></sub>
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/divyaa-pal">
-                    <img src="https://avatars.githubusercontent.com/u/241628319?v=4" width="96;" alt="divyaa-pal"/>
+                <a href="https://github.com/Anshika-Singh-07">
+                    <img src="https://avatars.githubusercontent.com/u/287406949?v=4" width="96;" alt="Anshika-Singh-07"/>
                     <br />
-                    <sub><b>divyaa-pal</b></sub>
+                    <sub><b>Anshika-Singh-07</b></sub>
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/Dhruv-kundu">
-                    <img src="https://avatars.githubusercontent.com/u/235337505?v=4" width="96;" alt="Dhruv-kundu"/>
+                <a href="https://github.com/ayush-68789">
+                    <img src="https://avatars.githubusercontent.com/u/191360185?v=4" width="96;" alt="ayush-68789"/>
                     <br />
-                    <sub><b>Dhruv-kundu</b></sub>
+                    <sub><b>ayush-68789</b></sub>
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/nazneen-p1">
-                    <img src="https://avatars.githubusercontent.com/u/186559888?v=4" width="96;" alt="nazneen-p1"/>
+                <a href="https://github.com/sanskarmangla005">
+                    <img src="https://avatars.githubusercontent.com/u/227333848?v=4" width="96;" alt="sanskarmangla005"/>
                     <br />
-                    <sub><b>nazneen-p1</b></sub>
+                    <sub><b>sanskarmangla005</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
+</tr>
+<tr>
             <td align="center">
-                <a href="https://github.com/gayatridot">
-                    <img src="https://avatars.githubusercontent.com/u/221440901?v=4" width="96;" alt="gayatridot"/>
+                <a href="https://github.com/ApoorvaPoojary8">
+                    <img src="https://avatars.githubusercontent.com/u/214687150?v=4" width="96;" alt="ApoorvaPoojary8"/>
                     <br />
-                    <sub><b>gayatridot</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/codewithakshyaaa">
-                    <img src="https://avatars.githubusercontent.com/u/251286515?v=4" width="96;" alt="codewithakshyaaa"/>
-                    <br />
-                    <sub><b>codewithakshyaaa</b></sub>
+                    <sub><b>ApoorvaPoojary8</b></sub>
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/vasudhaagrawal2024-byte">
-                    <img src="https://avatars.githubusercontent.com/u/249964032?v=4" width="96;" alt="vasudhaagrawal2024-byte"/>
+                <a href="https://github.com/animishgupta">
+                    <img src="https://avatars.githubusercontent.com/u/189523665?v=4" width="96;" alt="animishgupta"/>
                     <br />
-                    <sub><b>vasudhaagrawal2024-byte</b></sub>
+                    <sub><b>animishgupta</b></sub>
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/Shrutii-Rai">
-                    <img src="https://avatars.githubusercontent.com/u/214139386?v=4" width="96;" alt="Shrutii-Rai"/>
+                <a href="https://github.com/DhruvBhardwaj67">
+                    <img src="https://avatars.githubusercontent.com/u/184772452?v=4" width="96;" alt="DhruvBhardwaj67"/>
                     <br />
-                    <sub><b>Shrutii-Rai</b></sub>
+                    <sub><b>DhruvBhardwaj67</b></sub>
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/SARTHAKJINDAL1">
-                    <img src="https://avatars.githubusercontent.com/u/245673893?v=4" width="96;" alt="SARTHAKJINDAL1"/>
+                <a href="https://github.com/Mayank-cs23">
+                    <img src="https://avatars.githubusercontent.com/u/219116074?v=4" width="96;" alt="Mayank-cs23"/>
                     <br />
-                    <sub><b>SARTHAKJINDAL1</b></sub>
+                    <sub><b>Mayank-cs23</b></sub>
                 </a>
             </td>
-		</tr>
-	</tbody>
+            <td align="center">
+                <a href="https://github.com/wized2">
+                    <img src="https://avatars.githubusercontent.com/u/245696177?v=4" width="96;" alt="wized2"/>
+                    <br />
+                    <sub><b>wized2</b></sub>
+                </a>
+            </td>
+</tr>
+<tr>
+            <td align="center">
+                <a href="https://github.com/Raunakshukla90">
+                    <img src="https://avatars.githubusercontent.com/u/287776235?v=4" width="96;" alt="Raunakshukla90"/>
+                    <br />
+                    <sub><b>Raunakshukla90</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Sanjh-yadav7">
+                    <img src="https://avatars.githubusercontent.com/u/261974265?v=4" width="96;" alt="Sanjh-yadav7"/>
+                    <br />
+                    <sub><b>Sanjh-yadav7</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Ujjwal21kaushik">
+                    <img src="https://avatars.githubusercontent.com/u/192089831?v=4" width="96;" alt="Ujjwal21kaushik"/>
+                    <br />
+                    <sub><b>Ujjwal21kaushik</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/ashutoshsingh2711">
+                    <img src="https://avatars.githubusercontent.com/u/217346162?v=4" width="96;" alt="ashutoshsingh2711"/>
+                    <br />
+                    <sub><b>ashutoshsingh2711</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/shreyanshrajpoot">
+                    <img src="https://avatars.githubusercontent.com/u/232084535?v=4" width="96;" alt="shreyanshrajpoot"/>
+                    <br />
+                    <sub><b>shreyanshrajpoot</b></sub>
+                </a>
+            </td>
+</tr>
+</tbody>
 </table>
 
 <!-- readme: contributors -end -->
 
 </div>
 
-> ⚠️ **Note:** These contributors were provided as reference for PR template format.
-> To add your actual contributors, create a PR with their GitHub profile links.
+> 💡 **Tip:** Interested in contributing? Star this repo ⭐ and open a PR to get your name listed here!
+
+---
+
+## 📝 How to Add Yourself
+
+1. Fork this repository
+2. Make your contribution
+3. Open a Pull Request
+4. Your name and avatar will be added to the contributors list!
+
+---
+
+**Made with ❤️ by all contributors**
 
 <div align="left">
 ### 👥 Active Contributors
