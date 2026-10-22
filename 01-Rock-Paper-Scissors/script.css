@@ -1,3 +1,23 @@
+/* ---------- Theme variables ---------- */
+
+:root {
+    --bg: #ffffff;
+    --text: #000000;
+    --surface: #081b31;        
+    --surface-text: #ffffff;
+    --choice-hover: #081b31;
+    color-scheme: light;
+}
+
+[data-theme="dark"] {
+    --bg: #121212;
+    --text: #f2f2f2;
+    --surface: #1c3557;
+    --surface-text: #ffffff;
+    --choice-hover: #2f4f7f;
+    color-scheme: dark;
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -5,15 +25,53 @@
     text-align: center;
 }
 
+body {
+    position: relative;
+    background-color: var(--bg);
+    color: var(--text);
+    min-height: 100vh;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
 h1 {
-    background-color: #081b31;
-    color: white;
+    background-color: var(--surface);
+    color: var(--surface-text);
     min-height: 5rem;
-    padding: 1rem;
+    padding: 1rem 4.5rem; 
     display: flex;
     justify-content: center;
     align-items: center;
     font-size: clamp(1.5rem, 5vw, 2rem);
+    transition: background-color 0.3s ease;
+}
+
+
+
+#theme-toggle {
+    position: absolute;
+    top: 1.125rem;
+    right: 1rem;
+    height: 2.75rem;
+    width: 2.75rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.25rem;
+    line-height: 1;
+    background: transparent;
+    border: 2px solid var(--surface-text);
+    border-radius: 50%;
+    cursor: pointer;
+    transition: transform 0.2s ease;
+}
+
+#theme-toggle:hover {
+    transform: scale(1.1);
+}
+
+#theme-toggle:focus-visible {
+    outline: 3px solid #7aa7ff;
+    outline-offset: 2px;
 }
 
 
@@ -37,17 +95,18 @@ h1 {
     align-items: center;
     border-radius: 50%;
     cursor: pointer;
+    transition: background-color 0.2s ease;
 }
 
 
 @media (hover: hover) {
     .choice:hover {
-        background-color: #081b31;
+        background-color: var(--choice-hover);
     }
 }
 
 .choice:active {
-    background-color: #081b31;
+    background-color: var(--choice-hover);
 }
 
 img {
@@ -56,6 +115,7 @@ img {
     object-fit: cover;
     border-radius: 50%;
 }
+
 
 
 .score-board {
@@ -80,13 +140,22 @@ img {
 }
 
 #msg {
-    background-color: #081b31;
-    color: white;
-    display: inline-block; /* keeps the padding/background tidy when text wraps */
+    background-color: var(--surface);
+    color: var(--surface-text);
+    display: inline-block; 
     max-width: 100%;
     padding: 1rem;
     font-size: clamp(1.1rem, 4.5vw, 2rem);
     border-radius: 1rem;
+    transition: background-color 0.3s ease;
+}
+
+#msg.win {
+    background-color: green;
+}
+
+#msg.lose {
+    background-color: red;
 }
 
 
@@ -94,6 +163,12 @@ img {
 @media (max-height: 500px) and (orientation: landscape) {
     h1 {
         min-height: 3.5rem;
+    }
+
+    #theme-toggle {
+        top: 0.5rem;
+        height: 2.5rem;
+        width: 2.5rem;
     }
 
     .choices {
