@@ -22,13 +22,13 @@
     <button id="theme-toggle" type="button" aria-label="Switch to dark mode">🌙</button>
 
     <div class="choices">
-        <div class="choice" id="rock">
+        <div class="choice" id="rock" aria-keyshortcuts="R">
             <img src="./images/rock.png" alt="Rock">
         </div>
-        <div class="choice" id="paper">
+        <div class="choice" id="paper" aria-keyshortcuts="P">
             <img src="./images/paper.png" alt="Paper">
         </div>
-        <div class="choice" id="scissors">
+        <div class="choice" id="scissors" aria-keyshortcuts="S">
             <img src="./images/scissors.png" alt="Scissors">
         </div>
     </div>
@@ -46,6 +46,8 @@
     <div class="msg-container">
         <p id="msg">Pick your Move !</p>
     </div>
+
+    <p class="shortcut-hint">Tip: press <kbd>R</kbd>, <kbd>P</kbd> or <kbd>S</kbd> to play</p>
     <script src="app.js"></script>
 </body>
 </html>

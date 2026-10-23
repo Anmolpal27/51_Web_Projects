@@ -7,7 +7,7 @@ const msg = document.querySelector("#msg");
 const userScorePara = document.querySelector("#user-score");
 const compScorePara = document.querySelector("#computer-score");
 
-/* ---------- Game logic ---------- */
+
 
 const genCompChoice = () => {
     const options = ["rock", "paper", "scissors"];
@@ -68,6 +68,31 @@ choices.forEach((choice) => {
         const userChoice = choice.getAttribute("id");
         playGame(userChoice);
     });
+});
+
+
+
+const keyMap = { r: "rock", p: "paper", s: "scissors" };
+
+// Briefly highlights the circle so keyboard players get visual feedback
+const flashChoice = (choiceId) => {
+    const el = document.querySelector(`#${choiceId}`);
+    el.classList.add("key-pressed");
+    setTimeout(() => el.classList.remove("key-pressed"), 150);
+};
+
+document.addEventListener("keydown", (e) => {
+    // Ignore browser shortcuts (e.g. Ctrl+R to reload) and held-down keys
+    if (e.ctrlKey || e.metaKey || e.altKey || e.repeat || !e.key) return;
+
+    // Don't hijack typing if an input is ever added to the page
+    if (e.target.closest("input, textarea, select, [contenteditable]")) return;
+
+    const choice = keyMap[e.key.toLowerCase()];
+    if (choice) {
+        flashChoice(choice);
+        playGame(choice);
+    }
 });
 
 
