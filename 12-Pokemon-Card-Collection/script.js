@@ -34,7 +34,7 @@ pokemon.forEach(({ id, name }) => {
     img.addEventListener("error", () => {
         if (img.dataset.fallbackApplied !== "true") {
             img.dataset.fallbackApplied = "true";
-            img.src = `https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${id}.png`;
+            img.src = `https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/${id}.png`;
             return;
         }
 
