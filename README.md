@@ -69,7 +69,6 @@ The goal of this repository is to:
 | 24 | Student Management System |
 | 25 | UI Project Using Tailwind |
 
-> 📖 See the [Project Table](#project-table) for more details.
 
 ---
 
@@ -210,7 +209,6 @@ Choose any project folder and open the `index.html` file in your browser.
 ├── 23-Spotify-Project
 ├── 24-Student-Management-System
 ├── 25-UI-Project-Using-Tailwind
-│
 ├── scripts/            # Automation scripts for GitHub issues
 ├── CODE_OF_CONDUCT.md
 ├── LICENSE
