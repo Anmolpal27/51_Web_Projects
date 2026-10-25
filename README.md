@@ -51,6 +51,8 @@ The goal of this repository is to:
 | 08 | Amazon Clone |
 | 09 | Digital Clock |
 | 10 | E-Commerce Shopping App |
+| 16 | [Currency Converter](./16-currency-converter/) |
+| 24 | [Student Management System]
 | ... | And 41 More Projects |
 
 ---
@@ -94,6 +96,8 @@ Choose any project folder and open the `index.html` file in your browser.
 ├── 03-CodeForces-Clone
 ├── 04-Job-Application
 ├── 05-Pokemon-Card-Game
+├── 16-currency-converter
+├── 24-student-management-system
 ├── ...
 │
 ├── CONTRIBUTING.md
